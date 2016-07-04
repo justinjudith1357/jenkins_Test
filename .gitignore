@@ -8,10 +8,5 @@ target
 .pmd
 *.log
 *.log.*
-*.iml  
-*.ipr
-*.iws
-*.versionsBackup
-
 *.iml
-.DS_Store
+*.versionsBackup
